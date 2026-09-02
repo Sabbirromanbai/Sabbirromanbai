@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img src="file_0000000037ec8211bec6394efcddd783.png" alt="Fajle Rabbi Choyon - Full-Stack Engineer & Web Architect" width="100%" style="border-radius: 8px;" />
+<img src="file_0000000037ec8211bec6394efcddd783.png" alt="Md Sabbir Hossen - Full-Stack Engineer & Web Architect" width="100%" style="border-radius: 8px;" />
 
 <br/>
 
@@ -10,9 +10,9 @@
 
 <!-- Profile Badges -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=choyon-dev&style=for-the-badge&color=10B981&label=PROFILE+VIEWS" alt="Profile Views" />
-  <a href="https://github.com/choyon-dev?tab=followers"><img src="https://img.shields.io/github/followers/choyon-dev?style=for-the-badge&color=10B981&labelColor=0d1117&logo=github" alt="Followers" /></a>
-  <a href="https://choyon.dev"><img src="https://img.shields.io/badge/choyon.dev-10B981?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Sabbirromanbai&style=for-the-badge&color=10B981&label=PROFILE+VIEWS" alt="Profile Views" />
+  <a href="https://github.com/choyon-dev?tab=followers"><img src="https://img.shields.io/github/followers/Sabbirromanbai?style=for-the-badge&color=10B981&labelColor=0d1117&logo=github" alt="Followers" /></a>
+  <a href="https://Sabbirromanbai"><img src="https://img.shields.io/badge/Sabbirromanbai-10B981?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
 </p>
 
 </div>
@@ -22,7 +22,7 @@
 ## About Me
 
 <p>
-  <b>Web Designer & Developer</b> with <b>5+ years</b> of industry experience, actively leveling up into <b>MERN Full-Stack Engineering</b>. Hands-on with <b>React, Node.js, Express, MongoDB, and TypeScript</b>—bridging pixel-perfect UI/UX design with robust REST APIs, secure authentication, and scalable database architecture.
+  <b>Web Designer & Developer</b> with <b>1+ years</b> of industry experience, actively leveling up into <b>MERN Full-Stack Engineering</b>. Hands-on with <b>React, Node.js, Express, MongoDB, and TypeScript</b>—bridging pixel-perfect UI/UX design with robust REST APIs, secure authentication, and scalable database architecture.
 </p>
 
 | Location | Experience | Current Focus | Availability |
@@ -154,17 +154,17 @@
 
 <div align="center">
 
-<a href="https://github.com/choyon-dev">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=choyon-dev&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=10B981&icon_color=10B981&text_color=e6edf3&border_color=10B981&border_radius=8&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Overview Stats" height="175px" />
+<a href="https://github.com/Sabbirromanbai">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=sabbirroman&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=10B981&icon_color=10B981&text_color=e6edf3&border_color=10B981&border_radius=8&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Overview Stats" height="175px" />
 </a>
-<a href="https://github.com/choyon-dev">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=choyon-dev&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=10B981&text_color=e6edf3&border_color=10B981&border_radius=8&hide_border=false&langs_count=8" alt="Most Used Languages" height="175px" />
+<a href="https://github.com/Sabbirromanbai">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Sabbirromanbai&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=10B981&text_color=e6edf3&border_color=10B981&border_radius=8&hide_border=false&langs_count=8" alt="Most Used Languages" height="175px" />
 </a>
 
 <br/>
 
-<a href="https://github.com/choyon-dev">
-  <img src="https://streak-stats.demolab.com/?user=choyon-dev&theme=tokyonight&background=0d1117&ring=10B981&fire=10B981&currStreakLabel=10B981&sideLabels=e6edf3&border=10B981&stroke=10B981&dates=888888&border_radius=8" alt="GitHub Streak Stats" />
+<a href="https://github.com/Sabbirromanbai">
+  <img src="https://streak-stats.demolab.com/?user=Sabbirromanbai&theme=tokyonight&background=0d1117&ring=10B981&fire=10B981&currStreakLabel=10B981&sideLabels=e6edf3&border=10B981&stroke=10B981&dates=888888&border_radius=8" alt="GitHub Streak Stats" />
 </a>
 
 </div>
@@ -204,15 +204,15 @@
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/Website-choyon.dev-10B981?style=for-the-badge&logo=googlechrome&logoColor=white)](https://choyon.dev)
-[![Email](https://img.shields.io/badge/Email-hello%40choyon.dev-10B981?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@choyon.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-fajle--rabbi--choyon-10B981?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fajle-rabbi-choyon)
-[![GitHub](https://img.shields.io/badge/GitHub-choyon--dev-10B981?style=for-the-badge&logo=github&logoColor=white)](https://github.com/choyon-dev)
+[![Website](https://img.shields.io/badge/Website-choyon.dev-10B981?style=for-the-badge&logo=googlechrome&logoColor=white)](https://https://protfolio-sabbir-mapf6e2gu-sabbirromanbais-projects.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-hello%40choyon.dev-10B981?style=for-the-badge&logo=gmail&logoColor=white)](mailto🇨🇩bbirbai811@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-fajle--rabbi--choyon-10B981?style=for-the-badge&logo=linkedin&logoColor=white)](https://https://www.linkedin.com/in/md-sabbir-roman-9000593b6/)
+[![GitHub](https://img.shields.io/badge/GitHub-choyon--dev-10B981?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sabbirromanbai)
 
 <br/>
 
 **Available for freelance projects, technical consulting, and development contracts.**  
-*Uttara, Dhaka, Bangladesh • GMT+6*
+*Kornofuli, Chittagong, Bangladesh • GMT+6*
 
 </div>
 
