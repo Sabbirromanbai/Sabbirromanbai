@@ -27,7 +27,7 @@
 
 | Location | Experience | Current Focus | Availability |
 | :---: | :---: | :---: | :---: |
-| **Dhaka, Bangladesh** | **5+ Years Industry** | **MERN Stack & Next.js** | **Freelance & Contract** |
+| **Chittagong, Bangladesh** | **1+ Years Industry** | **MERN Stack & Next.js** | **Freelance & Contract** |
 
 ---
 
