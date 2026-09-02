@@ -218,17 +218,6 @@ This project runs directly in the browser.
 
 ---
 
-## 💻 Run Locally
-
-```bash
-git clone YOUR_GITHUB_LINK
-cd YOUR_PROJECT_FOLDER
-```
-
-Then open `index.html` in your browser.
-
----
-
 ## 🎯 Learning Goals
 
 This project was created to strengthen my understanding of **JavaScript fundamentals and advanced concepts** while improving my real-world problem-solving ability.
@@ -290,18 +279,8 @@ A beginner-friendly banking application built with **HTML, CSS, and JavaScript**
 
 No external libraries or dependencies are required.
 
----
-
-## 💻 Run Locally
-
-```bash
-git clone YOUR_GITHUB_LINK
-cd YOUR_PROJECT_FOLDER
 ```
-
-Open `index.html` in your browser.
-
----
+```
 
 ## 🧠 Concepts Practiced
 
@@ -375,16 +354,8 @@ No external dependencies are required.
 
 The project runs directly in the browser.
 
----
-
-## 💻 Run Locally
-
-```bash
-git clone YOUR_GITHUB_LINK
-cd YOUR_PROJECT_FOLDER
 ```
-
-Open `index.html` in your browser.
+```
 
 ---
 
