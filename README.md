@@ -6,7 +6,7 @@
 <br/>
 
 <!-- Animated Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=10B981&center=true&vCenter=true&width=600&lines=Web+Designer+%26+Full-Stack+Developer;5%2B+Years+of+Crafting+Digital+Experiences;Mastering+MERN+Full+Stack+Engineering;Transforming+Ideas+into+Scalable+Web+Products)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=10B981&center=true&vCenter=true&width=600&lines=Web+Designer+%26+Full-Stack+Developer;1%2B+Years+of+Crafting+Digital+Experiences;Mastering+MERN+Full+Stack+Engineering;Transforming+Ideas+into+Scalable+Web+Products)](https://git.io/typing-svg)
 
 <!-- Profile Badges -->
 <p>
@@ -133,23 +133,6 @@
 - [ ] TypeScript Integration for Full-Stack Type Safety
 - [ ] Production Deployment & CI/CD Pipelines (Vercel, Render, Railway, Atlas)
 
-</details>
-
----
-
-## Featured Repositories
-
-| Repository | Description | Stack | Link |
-|---|---|---|---|
-| **Modern-Pomodoro-Timer** | Productivity timer with dark/light mode, audio notifications, and session state | `JavaScript` `CSS` `HTML` | [Repository →](https://github.com/choyon-dev/Modern-Promodoro-Timer) |
-| **Daily-Mode-Tracker** | Mood tracker with glassmorphism UI and persistent local storage | `JavaScript` `CSS` `HTML` | [Repository →](https://github.com/choyon-dev/Daily-Mode-Tracker) |
-| **Word-Counter** | Text analysis utility with real-time word, character, and sentence analytics | `JavaScript` `HTML` | [Repository →](https://github.com/choyon-dev/Word-Counter) |
-| **Key-Code-Finder** | Developer utility for inspecting keyboard event codes and metadata | `JavaScript` `CSS` | [Repository →](https://github.com/choyon-dev/Key-Code-Finder) |
-| **AI-Image-Generator-Frontend** | Clean frontend interface for AI image generation tools | `CSS` `HTML` | [Repository →](https://github.com/choyon-dev/AI-Image-Generator-Frontend) |
-| **TheArt** | Modern landing page template emphasizing minimalist typography | `HTML` `CSS` | [Repository →](https://github.com/choyon-dev/TheArt) |
-
----
-
 ## GitHub Analytics
 
 <div align="center">
@@ -204,10 +187,10 @@
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/Website-choyon.dev-10B981?style=for-the-badge&logo=googlechrome&logoColor=white)](https://https://protfolio-sabbir-mapf6e2gu-sabbirromanbais-projects.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-hello%40choyon.dev-10B981?style=for-the-badge&logo=gmail&logoColor=white)](mailto🇨🇩bbirbai811@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-fajle--rabbi--choyon-10B981?style=for-the-badge&logo=linkedin&logoColor=white)](https://https://www.linkedin.com/in/md-sabbir-roman-9000593b6/)
-[![GitHub](https://img.shields.io/badge/GitHub-choyon--dev-10B981?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sabbirromanbai)
+[![Website](https://img.shields.io/badge/Sabbirromanbai-10B981?style=for-the-badge&logo=googlechrome&logoColor=white)](https://https://protfolio-sabbir-mapf6e2gu-sabbirromanbais-projects.vercel.app/)
+[![Email](https://img.shields.io/badge/-10B981?style=for-the-badge&logo=gmail&logoColor=white)](mailtosabbirbai811@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/inkedin.com/in/md-sabbir-roman-9000593b6?style=for-the-badge&logo=linkedin&logoColor=white)](https://https://www.linkedin.com/in/md-sabbir-roman-9000593b6/)
+[![GitHub](https://img.shields.io/badge/GitHub-Sabbirromanbai10B981?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sabbirromanbai)
 
 <br/>
 
