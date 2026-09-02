@@ -187,10 +187,28 @@
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/Sabbirromanbai-10B981?style=for-the-badge&logo=googlechrome&logoColor=white)](https://https://protfolio-sabbir-mapf6e2gu-sabbirromanbais-projects.vercel.app/)
-[![Email](https://img.shields.io/badge/-10B981?style=for-the-badge&logo=gmail&logoColor=white)](mailtosabbirbai811@gmail.com)
-[![LinkedIn](https://www.linkedin.com/in/md-sabbir-roman-9000593b6/)
-[![GitHub](https://img.shields.io/badge/GitHub-Sabbirromanbai10B981?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sabbirromanbai)
+<!-- ===================== SOCIAL BADGES ===================== -->
+
+<a href="https://github.com/Sabbirromanbai">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="YOUR_FACEBOOK_URL">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
+<a href="YOUR_PORTFOLIO_URL">
+<img src="https://img.shields.io/badge/Portfolio-00BFFF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Sabbirromanbai&label=PROFILE+VIEWS&color=00BFFF&style=for-the-badge"/>
+
 
 <br/>
 
