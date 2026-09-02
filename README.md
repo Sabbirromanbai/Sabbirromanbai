@@ -189,7 +189,7 @@
 
 [![Website](https://img.shields.io/badge/Sabbirromanbai-10B981?style=for-the-badge&logo=googlechrome&logoColor=white)](https://https://protfolio-sabbir-mapf6e2gu-sabbirromanbais-projects.vercel.app/)
 [![Email](https://img.shields.io/badge/-10B981?style=for-the-badge&logo=gmail&logoColor=white)](mailtosabbirbai811@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/inkedin.com/in/md-sabbir-roman-9000593b6?style=for-the-badge&logo=linkedin&logoColor=white)](https://https://www.linkedin.com/in/md-sabbir-roman-9000593b6/)
+[![LinkedIn](https://www.linkedin.com/in/md-sabbir-roman-9000593b6/)
 [![GitHub](https://img.shields.io/badge/GitHub-Sabbirromanbai10B981?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sabbirromanbai)
 
 <br/>
