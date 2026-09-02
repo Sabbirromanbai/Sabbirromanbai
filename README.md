@@ -168,20 +168,255 @@
 
 ---
 
-## Services & Capabilities
+## Repository Name And Link
+--------------------------------------
 
 <div align="center">
 
-| Web Development | Platform Engineering | UI/UX & Design | Optimization & Performance |
-|:---|:---|:---|:---|
-| Custom React Applications | WordPress Theme/Plugin Dev | Wireframing & Prototyping | Core Web Vitals Optimization |
-| Node.js & Express REST APIs | Shopify Store Architecture | Responsive Design Systems | Technical SEO Architecture |
-| Database Modeling (MongoDB) | Webflow & Framer Development | Conversion-Focused UX | Page Speed Tuning |
-| API & Automation Workflows | Custom WooCommerce Solutions | Landing Page UI | Cross-Browser Compatibility |
+# 🚀 Advanced JavaScript
+
+<div align="center">
+
+### ⚡ Exploring the Power of Modern JavaScript
+
+A practice project focused on improving my JavaScript skills through interactive features, DOM manipulation, events, and modern ES6+ concepts.
+
+[🌐 Live Demo](https://github.com/Sabbirromanbai/advance-javascript) • [📂 Source Code](https://github.com/Sabbirromanbai/advance-javascript)
 
 </div>
 
 ---
+---
+
+## 🛠️ Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
+
+---
+
+## ✨ Key Features
+
+* ⚡ Modern JavaScript (ES6+)
+* 🎯 DOM Manipulation
+* 🖱️ Event Handling
+* 🔄 Dynamic UI Updates
+* 🧠 JavaScript Logic & Problem Solving
+* 📱 Responsive Interface
+* 🧹 Clean & Organized Code
+
+---
+
+## 📦 Dependencies
+
+No external dependencies are required.
+
+This project runs directly in the browser.
+
+---
+
+## 💻 Run Locally
+
+```bash
+git clone YOUR_GITHUB_LINK
+cd YOUR_PROJECT_FOLDER
+```
+
+Then open `index.html` in your browser.
+
+---
+
+## 🎯 Learning Goals
+
+This project was created to strengthen my understanding of **JavaScript fundamentals and advanced concepts** while improving my real-world problem-solving ability.
+
+---
+
+## 🔗 Relevant Links
+
+* 🌐 Live Project: https://github.com/Sabbirromanbai/advance-javascript
+* 📂 GitHub Repository: https://github.com/Sabbirromanbai/advance-javascript
+
+---
+
+<div align="center">
+
+⭐ **If you find this project useful, don't forget to Star the repository!**
+
+### Made with ❤️ & JavaScript
+
+</div>
+
+---------------------------------------
+
+# 🏦 Pioneer Bank
+
+<div align="center">
+
+### 💰 A Simple & Interactive Banking Application
+
+A beginner-friendly banking application built with **HTML, CSS, and JavaScript** to practice DOM manipulation, event handling, calculations, and dynamic UI updates.
+
+[🌐 Live Demo](https://sabbirromanbai.github.io/pioneer-bank/) • [📂 Source Code](https://github.com/Sabbirromanbai/pioneer-bank)
+
+</div>
+
+## 🛠️ Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
+
+---
+
+## ✨ Key Features
+
+* 🔐 Simple Login Interface
+* 💵 Deposit Money
+* 💸 Withdraw Money
+* 💰 Dynamic Balance Calculation
+* ⚡ Real-time UI Updates
+* 🎯 User Interaction
+* 📱 Responsive Design
+
+---
+
+## 📦 Dependencies
+
+No external libraries or dependencies are required.
+
+---
+
+## 💻 Run Locally
+
+```bash
+git clone YOUR_GITHUB_LINK
+cd YOUR_PROJECT_FOLDER
+```
+
+Open `index.html` in your browser.
+
+---
+
+## 🧠 Concepts Practiced
+
+* JavaScript Functions
+* DOM Manipulation
+* Event Listeners
+* Conditional Logic
+* Mathematical Operations
+* Input Handling
+* Dynamic Content
+
+---
+
+## 🔗 Relevant Links
+
+* 🌐 Live Project: https://sabbirromanbai.github.io/pioneer-bank/
+* 📂 GitHub Repository: https://github.com/Sabbirromanbai/pioneer-bank
+
+---
+
+<div align="center">
+
+⭐ **Star this repository if you like the project!**
+
+### Built with 💙 using HTML, CSS & JavaScript
+
+</div>
+
+-------------------------------------------------------
+
+# 🔐 Pin Matcher
+
+<div align="center">
+
+### 🔢 Generate • Enter • Match • Verify
+
+A simple interactive **PIN Matcher application** built with HTML, CSS, and JavaScript. This project focuses on user input, random PIN generation, validation, and dynamic UI interaction.
+
+[🌐 Live Demo](https://sabbirromanbai.github.io/pin-matcher/) • [📂 Source Code](https://github.com/Sabbirromanbai/pin-matcher)
+
+</div>
+
+--------------------
+
+## 🛠️ Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
+
+---
+
+## ✨ Key Features
+
+* 🔢 Random PIN Generation
+* ⌨️ User PIN Input
+* 🔍 PIN Matching
+* ✅ Success Feedback
+* ❌ Error Feedback
+* 🔄 Try Again Functionality
+* ⚡ Dynamic Interface
+* 📱 Responsive Design
+
+---
+
+## 📦 Dependencies
+
+No external dependencies are required.
+
+The project runs directly in the browser.
+
+---
+
+## 💻 Run Locally
+
+```bash
+git clone YOUR_GITHUB_LINK
+cd YOUR_PROJECT_FOLDER
+```
+
+Open `index.html` in your browser.
+
+---
+
+## 🧠 Concepts Practiced
+
+* JavaScript Functions
+* Random Number Generation
+* DOM Manipulation
+* Event Handling
+* Conditional Statements
+* Input Validation
+* String & Number Handling
+
+---
+
+## 🔗 Relevant Links
+
+* 🌐 Live Project: https://sabbirromanbai.github.io/pin-matcher/
+* 📂 GitHub Repository: https://sabbirromanbai.github.io/pin-matcher/
+
+---
+
+<div align="center">
+
+⭐ **If you like this project, consider giving it a Star!**
+
+### Made with ❤️ & JavaScript
+
+</div>
+
+
+---------------------------------------------------------
 
 ## Connect & Collaborate
 
