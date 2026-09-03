@@ -93,45 +93,10 @@
 | **Full-Stack & Payment Gateways** | End-to-End MERN Applications, Stripe & SSLCommerz Integration | `████░░░░░░ 40%` | ![Upcoming](https://img.shields.io/badge/Upcoming-6B7280?style=flat-square) |
 | **Next-Gen Production Arch** | Next.js (App Router, Server Components, SSR/SSG), TypeScript, Docker | `███░░░░░░░ 30%` | ![Planned](https://img.shields.io/badge/Planned-374151?style=flat-square) |
 
-<details>
-<summary><b>View Detailed Learning Progression & Topics</b></summary>
 
 <br/>
 
-**Phase 1: Web Fundamentals & UI Architecture (Completed)**
-- [x] Semantic HTML5, Page Structure & Web Accessibility (a11y)
-- [x] Modern CSS3, Flexbox, CSS Grid & Responsive Layouts
-- [x] Utility-First Styling with Tailwind CSS & DaisyUI
-- [x] Git & GitHub (Branching, Pull Requests, Version Control)
-- [x] Platform & CMS Architecture (WordPress, Webflow, Framer, Shopify)
-
-**Phase 2: Core JavaScript & Asynchronous Programming (Completed)**
-- [x] JavaScript Fundamentals (ES6+, Scopes, Closures, Hoisting)
-- [x] Array Methods & Data Operations (`map`, `filter`, `reduce`, `find`)
-- [x] DOM Traversal, Event Delegation & Dynamic UI Generation
-- [x] Asynchronous JavaScript (Promises, `async/await`, Fetch API, Axios)
-- [x] Client Storage (`localStorage`, `sessionStorage`, Cookies)
-
-**Phase 3: React.js & Single Page Applications (Active Focus)**
-- [x] React Component Architecture, JSX & Props Flow
-- [x] Core Hooks (`useState`, `useEffect`, `useRef`, `useMemo`, `useCallback`)
-- [x] Single Page Routing with React Router DOM (Dynamic & Nested Routes)
-- [x] Form Handling & Validation with React Hook Form
-- [ ] Global State Management (Context API & TanStack Query)
-
-**Phase 4: Backend, Database & Authentication (Active Focus)**
-- [x] Node.js Runtime Architecture & NPM Package Ecosystem
-- [ ] Express.js Server Setup, RESTful Routing & Middleware Design
-- [ ] MongoDB Atlas Configuration & Mongoose Schema Modeling
-- [ ] Authentication Systems (Firebase Auth, JWT Token Management)
-- [ ] Full-Stack CRUD API Design & Error Handling Middleware
-
-**Phase 5: Full-Stack Integration & Production Architecture (Upcoming)**
-- [ ] End-to-End MERN Application with Secure Role-Based Access Control
-- [ ] Payment Gateway Integration (Stripe & SSLCommerz)
-- [ ] Next.js (App Router, Server Components, SSR, SSG & Server Actions)
-- [ ] TypeScript Integration for Full-Stack Type Safety
-- [ ] Production Deployment & CI/CD Pipelines (Vercel, Render, Railway, Atlas)
+--–----------------------------
 
 ## GitHub Analytics
 
